@@ -1,4 +1,4 @@
-# gigboard Discord Gig Bot
+# GigBoard Discord Gig Bot (Protein Version / Single JS file)
 
 A Discord bot for posting gigs to configured channels with applications, reports, and cleanup.
 
