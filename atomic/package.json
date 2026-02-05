@@ -1,0 +1,13 @@
+{
+  "name": "discord-gig-bot",
+  "version": "1.0.0",
+  "description": "A simple Discord bot for posting gigs.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "latest",
+    "dotenv": "latest"
+  }
+}
